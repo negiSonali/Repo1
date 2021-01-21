@@ -1,0 +1,10 @@
+ Volume in drive C is SSD
+ Volume Serial Number is 883B-8C06
+
+ Directory of C:\Users\Amit Negi\OneDrive\Desktop\folder
+
+21-01-2021  15:03    <DIR>          .
+21-01-2021  15:03    <DIR>          ..
+21-01-2021  15:03                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  59,383,791,616 bytes free
